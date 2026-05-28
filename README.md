@@ -2,21 +2,21 @@
 
 **Strategische techpartner voor MKB - Software, AI & Fractional CTO - Maastricht**
 
-Ik help organisaties die vastlopen op technologie om weer grip te krijgen, door mee te denken en mee te bouwen. Geen bureau, geen overhead. Strategie en uitvoering, zonder handover.
+Ik help organisaties versnellen, groeien en impact maken met techniek. Door mee te denken en mee te bouwen. Strategie en uitvoering, zonder handover dus met snelle resultaten.
 
 ---
 
 ## Wat ik doe
 
-Maatwerk software en apps, AI-automatisering, Mendix-migratie (tot 90% besparing op licentiekosten), Fractional CTO.
+Maatwerk software en apps, AI-automatisering, hardware development en beschikbaar als fractional CTO.
 
 ## Achtergrond
 
-15+ jaar ervaring in software development. Achtergrond in gedragswetenschappen en techniek. 2000+ uur geautomatiseerd, 100K+ aan besparingen gevonden. 5 eigen producten live.
+15+ jaar ervaring in software development. Achtergrond in gedragswetenschappen (Msc Human Decision Science) en techniek. 
 
 ## Blog
 
-AI voor MKB, maatwerk software vs. SaaS, Mendix-alternatieven, fractional CTO: [invenix.nl/blog](https://invenix.nl/blog)
+Mijn gedachten rondom techniek, vooral gericht op het MKB / startups: [invenix.nl/blog](https://invenix.nl/blog)
 
 ---
 
